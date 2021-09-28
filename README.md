@@ -1,1 +1,1 @@
-# penduGame
+# Kata Prep
